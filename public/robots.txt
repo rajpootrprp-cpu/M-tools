@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vidboostai.vercel.app/sitemap.xml
